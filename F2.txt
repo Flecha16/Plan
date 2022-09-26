@@ -1,0 +1,1 @@
+Función 2 con varios errores solucionados.
