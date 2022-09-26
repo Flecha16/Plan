@@ -1,1 +1,1 @@
-Función 2 con error solucionado.
+Función 2 con varios errores solucionados.
