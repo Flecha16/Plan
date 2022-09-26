@@ -1,1 +1,1 @@
-Función 2
+Función 2 con error solucionado.
